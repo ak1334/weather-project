@@ -1,5 +1,5 @@
 //install => npm i hbs@4.0.1
-
+console.log("hey");
 const path = require("path"); //core node module
 const express = require("express");
 const hbs = require("hbs");
