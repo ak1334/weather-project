@@ -7,5 +7,20 @@
   },
   "author": "",
   "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "hbs": "^4.0.1",
+    "nodemon": "^1.18.11",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ak1334/weather-project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ak1334/weather-project/issues"
+  },
+  "homepage": "https://github.com/ak1334/weather-project#readme",
   "description": ""
 }
